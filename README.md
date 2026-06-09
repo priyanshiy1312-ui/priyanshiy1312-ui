@@ -63,15 +63,18 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshiy1312-ui\&show_icons=true\&theme=tokyonight)
+![Priyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshiy1312-ui\&show_icons=true\&theme=tokyonight)
+
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=priyanshiy1312-ui\&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiy1312-ui\&layout=compact\&theme=tokyonight)
+## 💻 Most Used Languages
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiy1312-ui\&layout=compact\&theme=tokyonight)
 
 ## 🏆 Achievements
 
@@ -90,6 +93,7 @@
 ### 💭 Quote
 
 >"Code is not just about solving problems; it's about creating possibilities."
+<br>
 🔝 Top Contributed Repo
 
 
