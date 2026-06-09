@@ -94,9 +94,12 @@
 ---
 
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## ✍️ Random Dev Quote
+
+> *"I'm not a great programmer; I'm just a good programmer with great habits."*
+>
+> — **Kent Beck**
 
 
 
