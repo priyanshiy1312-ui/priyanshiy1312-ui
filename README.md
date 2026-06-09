@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech Student | Frontend Developer | Open Source Contributor</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Open+Source+Contributor;Learning+C%2B%2B+and+JavaScript;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Open+Source+Contributor;Learning+JavaScript;Building+Projects+Every+Day" />
 </p>
 
 ---
@@ -90,11 +90,26 @@
 
 ---
 
-### 💭 Quote
+## 🏆 GitHub Trophies
 
->"Code is not just about solving problems; it's about creating possibilities."
-<br>
-🔝 Top Contributed Repo
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshiy1312-ui\&theme=tokyonight\&row=1\&column=6)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+## 🌟 Top Contributed Repo
+
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=priyanshiy1312-ui\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+
+---
+
+
+
+
 
 
 
