@@ -1,72 +1,126 @@
+# Hi 👋, I'm Priyanshi Yadav
 
-
-<h1 align="center">Hi 👋, I'm Priyanshi Yadav</h1>
-<h3 align="center">B.Tech Student | Frontend Developer | Open Source Enthusiast</h3>
+<h3 align="center">B.Tech Student | Frontend Developer | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Open+Source+Contributor;Learning+JavaScript;Building+Projects+with+HTML+CSS+JS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Open+Source+Contributor;Learning+C%2B%2B+and+JavaScript;Building+Projects+Every+Day" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Student
-- 🌱 Currently learning **JavaScript & Open Source**
-- 💻 Interested in **Web Development**
-- 🚀 Participating in Open Source Programs
-- 📫 Reach me on GitHub: **@priyanshiy1312-ui**
+🎓 B.Tech Student
+
+🌱 Currently learning **C++, JavaScript & Open Source**
+
+💻 Passionate about **Web Development**
+
+🚀 Participating in **GirlScript Summer of Code (GSSoC)**
+
+📚 Improving Problem Solving & DSA Skills
+
+⚡ Building real-world projects using HTML, CSS & JavaScript
+
+🤝 Open to collaboration and learning opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
+
+📧 **Email:** [priyanshiy1312@gmail.com](mailto:priyanshiy1312@gmail.com)
+
+🐙 **GitHub:** https://github.com/priyanshiy1312-ui
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Rock Paper Scissors Game
-A fun game built using HTML, CSS and JavaScript.
+### 🎓 CGPA Calculator
 
-### 🛒 Amazon Clone
-Frontend clone of Amazon homepage.
+Calculate SGPA and CGPA quickly and accurately.
 
 ### 💱 Currency Converter
+
 Real-time currency conversion using API integration.
 
-### 🎓 CGPA Calculator
-Calculate SGPA and CGPA easily.
+### 🎮 Rock Paper Scissors Game
+
+Interactive game built using JavaScript.
+
+### 🛒 Amazon Clone
+
+Responsive frontend clone of Amazon homepage.
+
+---
+
+## 🎯 Current Goals
+
+✔ Contribute to Open Source
+
+✔ Improve DSA in C++
+
+✔ Learn React.js
+
+✔ Build More Projects
+
+✔ Strengthen Frontend Development Skills
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshiy1312-ui&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshiy1312-ui\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiy1312-ui&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=priyanshiy1312-ui\&theme=tokyonight)
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=priyanshiy1312-ui&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiy1312-ui\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🌟 Connect With Me
+## 🏆 Achievements
 
-- GitHub: https://github.com/priyanshiy1312-ui
+🌟 Open Source Contributor
+
+🌟 GSSoC Participant
+
+🌟 Frontend Developer
+
+🌟 Continuous Learner
+
+🌟 Problem Solver
 
 ---
+
+### 💭 Quote
+
+> "Success is built one commit, one project, and one lesson at a time."
 
 ⭐ Thanks for visiting my profile!
+
