@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**priyanshiy1312-ui/priyanshiy1312-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-Hi,👋I’m Priyanshi
+Aspiring Frontend Developer & Creative Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋‍♀️Contact me through Gmail for collaborations and opportunities 📩
+
+🎗️Skilled in HTML, CSS, JavaScript, and Python
+
+• Currently learning UI/UX design with Figma 
+
+• Passionate about building responsive and modern websites
+
+😊Actively seeking internship opportunities to gain real-world experience
+
+👍Focused on improving coding, design, and project-building skills
+
+Goal: Turn creativity into professional digital solutions 🚀
+
+🌐 Socials:-
+  email
+💻 Tech Stack:
+C C++ CSS3 JavaScript HTML5 Git
