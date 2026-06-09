@@ -38,55 +38,24 @@
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
 
-### 🎓 CGPA Calculator
 
-Calculate SGPA and CGPA quickly and accurately.
-
-### 💱 Currency Converter
-
-Real-time currency conversion using API integration.
-
-### 🎮 Rock Paper Scissors Game
-
-Interactive game built using JavaScript.
-
-### 🛒 Amazon Clone
-
-Responsive frontend clone of Amazon homepage.
-
----
 
 ## 🎯 Current Goals
 
 ✔ Contribute to Open Source
 
-✔ Improve DSA in C++
 
-✔ Learn React.js
 
 ✔ Build More Projects
 
@@ -100,7 +69,7 @@ Responsive frontend clone of Amazon homepage.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=priyanshiy1312-ui\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiy1312-ui\&layout=compact\&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiy1312-ui\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -120,7 +89,7 @@ Responsive frontend clone of Amazon homepage.
 
 ### 💭 Quote
 
-> "Success is built one commit, one project, and one lesson at a time."
+>"Code is not just about solving problems; it's about creating possibilities."
 
 ⭐ Thanks for visiting my profile!
 
