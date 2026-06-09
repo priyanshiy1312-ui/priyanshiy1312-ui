@@ -92,18 +92,17 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshiy1312-ui\&theme=tokyonight\&row=1\&column=6)
+
 
 ---
-
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+> "Small commits every day build extraordinary projects."
 
----
-## 🌟 Top Contributed Repo
 
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=priyanshiy1312-ui\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+
+
 
 ---
 
