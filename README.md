@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats
 
-![Priyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshiy1312-ui\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshiy1312-ui&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
@@ -74,7 +74,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiy1312-ui\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyanshiy1312-ui&layout=compact&theme=tokyonight)
 
 ## 🏆 Achievements
 
