@@ -97,7 +97,10 @@
 ---
 ## ✍️ Random Dev Quote
 
-> "Small commits every day build extraordinary projects."
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical\&theme=tokyonight)
+
 
 
 ## 🔝 Top Contributed Repo
