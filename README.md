@@ -25,7 +25,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Socials
 
 <p align="left">
 
@@ -47,7 +47,7 @@
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p align="left">
 
@@ -60,7 +60,7 @@
 
 </p>
 
-## 🗄️ Database
+### Database
 
 <p align="left">
 
@@ -68,7 +68,7 @@
 
 </p>
 
-## 🎨 Frameworks & Styling
+### Frameworks & Styling
 
 <p align="left">
 
@@ -76,7 +76,7 @@
 
 </p>
 
-## 🔧 Tools & Platforms
+### Tools & Platforms
 
 <p align="left">
 
@@ -127,16 +127,6 @@
 
 ---
 
-# 📈 Profile Details
-
-<div align="left">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshiy1312-ui&theme=tokyonight" width="95%"/>
-
-</div>
-
----
-
 # 💬 Random Dev Quote
 
 > "I'm not a great programmer; I'm just a good programmer with great habits."
@@ -156,9 +146,7 @@
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88A8,50:3959A8,100:4B4BA8&height=120&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88A8,50:3959A8,100:4B4BA8&height=120&section=footer" width="100%"/>
 </p>
 
 </div>
