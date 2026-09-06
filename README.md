@@ -1,115 +1,71 @@
-# Hi 👋, I'm Priyanshi Yadav
+# 👋 Hi, I'm Priyanshi Yadav
 
-<h3 align="center">B.Tech Student | Frontend Developer | Open Source Contributor</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Open+Source+Contributor;Learning+JavaScript;Building+Projects+Every+Day" />
-</p>
+### 💻 B.Tech CSE Student | Frontend Developer | Open Source Contributor
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Learner;Open+Source+Contributor;Building+Real+World+Projects;Always+Learning+Something+New!" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Priy...-181717?style=for-the-badge&logo=github)](https://github.com/priyanshiy1312-ui)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github)](https://github.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=priyanshiy1312-ui&label=Profile%20Views&color=38BDF8&style=for-the-badge)](https://github.com/priyanshiy1312-ui)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
+I'm a **B.Tech Computer Science student** passionate about building interactive and user-friendly web applications.
 
-
-🌱 Currently learning ** JavaScript & Open Source**
-
-💻 Passionate about **Web Development**
-
-🚀 Participating in **GirlScript Summer of Code (GSSoC)**
-
-📚 Improving Problem Solving & DSA Skills
-
-⚡ Building real-world projects using HTML, CSS & JavaScript
-
-🤝 Open to collaboration and learning opportunities
-
----
-## 🌐 Socials
-
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:priyanshiy1312@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/priyanshiy1312-ui)
-
+- 🌱 Currently learning **JavaScript & Open Source**
+- 💻 Passionate about **Frontend & Web Development**
+- 🚀 Participating in **GirlScript Summer of Code (GSSoC)**
+- 🧠 Improving my **Problem Solving & DSA Skills**
+- ⚡ Building real-world projects using **HTML, CSS, JavaScript, PHP & MySQL**
+- 🌐 Exploring modern deployment platforms like **Netlify & Vercel**
+- 🤝 Open to collaboration, open-source projects and learning opportunities
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p align="left">
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php" />
 
-### Tools & Platforms
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+### 🗄️ Database
 
----
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=mysql" />
 
+</p>
 
+### 🔧 Tools & Platforms
 
-## 🎯 Current Goals
+<p align="left">
 
-✔ Contribute to Open Source
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
 
-
-
-✔ Build More Projects
-
-✔ Strengthen Frontend Development Skills
-
----
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshiy1312-ui&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=priyanshiy1312-ui\&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyanshiy1312-ui&layout=compact&theme=tokyonight)
-
-## 🏆 Achievements
-
-🌟 Open Source Contributor
-
-🌟 GSSoC Participant
-
-🌟 Frontend Developer
-
-🌟 Continuous Learner
-
-🌟 Problem Solver
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
----
+## 🚀 What I'm Currently Working On
 
-
-
-## ✍️ Random Dev Quote
-
-> *"I'm not a great programmer; I'm just a good programmer with great habits."*
->
-> — **Kent Beck**
-
-
-
-
-
-## 🔝 Top Contributed Repo
-
-
-
----
+```text
+Frontend Development     ███████████████████░░   90%
+JavaScript               ████████████████░░░░░   80%
+DSA & Problem Solving    ██████████████░░░░░░░   70%
+PHP & MySQL              ████████████░░░░░░░░░   60%
+Open Source              ██████████████░░░░░░░   70%
 
 
 
