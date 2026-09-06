@@ -45,22 +45,50 @@
 
 ---
 
-💻 Tech Stack
-────────────────────────────────────────
+# 🛠️ Tech Stack
 
-### Languages
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE5F7C,50:9B718F,100:806A82&height=120&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</p>
 
-[C] [C++] [HTML5] [CSS3] [JavaScript] [PHP] [Bootstrap]
+<br>
+
+### 💻 Languages & Frontend
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-FF86A8?style=for-the-badge&logo=c&logoColor=333333"/>
+<img src="https://img.shields.io/badge/C%2B%2B-F5AFC4?style=for-the-badge&logo=c%2B%2B&logoColor=333333"/>
+<img src="https://img.shields.io/badge/HTML5-FF86A8?style=for-the-badge&logo=html5&logoColor=333333"/>
+<img src="https://img.shields.io/badge/CSS3-F5AFC4?style=for-the-badge&logo=css3&logoColor=333333"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7C9D9?style=for-the-badge&logo=javascript&logoColor=333333"/>
+<img src="https://img.shields.io/badge/PHP-D1C5F2?style=for-the-badge&logo=php&logoColor=333333"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-F0C9D9?style=for-the-badge&logo=bootstrap&logoColor=333333"/>
+
+</p>
+
+<br>
 
 ### 🗄️ Database
 
-[MySQL]
+<p align="left">
+
+<img src="https://img.shields.io/badge/MYSQL-AF9AEF?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+
+</p>
+
+<br>
 
 ### 🛠️ Tools & Platforms
 
-[Git] [GitHub] [VS Code] [Netlify]
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/GIT-F2C7A5?style=for-the-badge&logo=git&logoColor=333333"/>
+<img src="https://img.shields.io/badge/GITHUB-B8D8D8?style=for-the-badge&logo=github&logoColor=333333"/>
+<img src="https://img.shields.io/badge/VS%20CODE-C5CBE8?style=for-the-badge&logo=visual-studio-code&logoColor=333333"/>
+<img src="https://img.shields.io/badge/NETLIFY-A8DED0?style=for-the-badge&logo=netlify&logoColor=333333"/>
+
+</p>
 
 # 🎯 Current Goals
 
