@@ -45,47 +45,20 @@
 
 ---
 
-# 🛠️ Tech Stack
+💻 Tech Stack
+────────────────────────────────────────
 
 ### Languages
 
-<p align="left">
+[C] [C++] [HTML5] [CSS3] [JavaScript] [PHP] [Bootstrap]
 
-<img src="https://skillicons.dev/icons?i=c" height="45"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=php" height="45"/>
+### 🗄️ Database
 
-</p>
+[MySQL]
 
-### Database
+### 🛠️ Tools & Platforms
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-
-</p>
-
-### Frameworks & Styling
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
-
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-<img src="https://skillicons.dev/icons?i=netlify" height="45"/>
-
-</p>
+[Git] [GitHub] [VS Code] [Netlify]
 
 ---
 
@@ -135,21 +108,9 @@
 
 ---
 
-# 🚀 Top Contributed Repo
-
-<div align="left">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=priyanshiy1312-ui&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="95%"/>
-
-</div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88A8,50:3959A8,100:4B4BA8&height=120&section=footer" width="100%"/>
 </p>
-
-</div>
 
 
 
